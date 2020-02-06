@@ -1,0 +1,24 @@
+[
+    {
+        "status":"Magreza",
+        "maxBMI": 18.5,
+        "color": "#00e"
+    },
+    {
+        "status": "Normal",
+        "maxBMI": 24.9,
+        "color":"#070"
+    },
+    {
+        "status": "Sobrepeso",
+        "maxBMI": 29.9,
+        "color": "#ee0"
+    }, {
+        "status": "Obesidade",
+        "maxBMI": 39.9,
+        "color": "#ff0707"
+    }, {
+        "status": "Obesidade grave",
+        "color": "#a00"
+    }
+]
