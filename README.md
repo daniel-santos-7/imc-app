@@ -5,12 +5,12 @@ Aplicativo mobile para cálculo de IMC (índice de massa corporal), desenvolvido
 ![IMC App](/.github/preview.png)
 
 
-:rocket: Tecnologias:
+:rocket: **Tecnologias**:
 
 - [React Native](https://facebook.github.io/react-native/)
 - [Expo](https://expo.io/)
 
-:package: Bibliotecas
+:package: **Bibliotecas**:
 
 - [React Native Progress Circle](https://www.npmjs.com/package/react-native-progress-circle) 
 
